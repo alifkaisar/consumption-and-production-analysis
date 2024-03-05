@@ -46,10 +46,10 @@ The other files are data frames obtained from the analysis to make it easier to 
 
 # Notebook and Web App
 As mentioned earlier, the analysis data uses `consumption.csv` and `production.csv` files. See the analysis results:
-- Google Colaboratory - <a href="https://colab.research.google.com/drive/1T3OVzKDZjnlarKUFsT90mb5b3e7F1SQ7?usp=sharing/" target="_blank" rel="noopener noreferrer">Here</a>
+- Google Colaboratory - [Here](https://colab.research.google.com/drive/1T3OVzKDZjnlarKUFsT90mb5b3e7F1SQ7?usp=sharing/)
 
 For web application using Streamlit. See web application:
-- Streamlit - <a href="https://dashboardalif.streamlit.app/" target="_blank" rel="noopener noreferrer">Here</a>
+- Streamlit - [Here](https://dashboardalif.streamlit.app/)
 
 # About Me
-See more about me - <a href="https://alifcoding.cyclic.app/" target="_blank" rel="noopener noreferrer">Here</a>
+See more about me - [Here](https://alifcoding.cyclic.app/)
