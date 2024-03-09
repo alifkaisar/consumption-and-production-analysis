@@ -50,7 +50,7 @@ with st.sidebar:
         year = st.radio(label="Select Year", options=[2021, 2022])
         correlation_data = correlation_2022
 
-    st.markdown("About Me: [My Personal Website](https://www.google.com)")
+    st.markdown("About Me: [LinkedIn](https://www.linkedin.com/in/alifkaisar/)")
     st.markdown("Notebook: [Google Colaboratory]("
                 "https://colab.research.google.com/drive/1T3OVzKDZjnlarKUFsT90mb5b3e7F1SQ7?usp=sharing)")
 
